@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 I'm Sami — What’s up?</h1>
+<h1 align="center">Hey 👋 I’m Sami</h1>
 
 <p align="center">
-  I'm a full-stack developer & indie app creator crafting futuristic UI experiences with performance-first principles.<br/>
-  From mobile to macOS, I love shipping sleek apps that look 🔥 and work even better.
+  I build <b>polished, performance-first apps</b> across Android, web, and macOS.<br/>
+  Obsessed with <b>glass UI, smooth animations</b>, and shipping things people actually use.
 </p>
 
 ---
@@ -26,57 +26,87 @@
 
 ---
 
-<h3 align="center">📱 Projects I’ve Built</h3>
-
-- 🔐 **AppLock (Android)**: Beautiful, smooth, and secure app locker with **biometric unlock**, **PIN**, and **pattern-based security**. Inspired by Nothing OS, iOS, and One UI with custom UI components and animations.
-- 🖥️ **LockCanvas (macOS)**: A modern app locker for macOS that overlays a translucent lock screen on selected apps — supports **PIN, Pattern, and Touch ID**. No root/admin access required.
-- 📝 **Glass Notes**: A Gen Z–inspired, offline-first notes app with biometric lock, swipe-to-delete, pinning, and futuristic animation transitions.
-- ⚙️ **Glass Animation Tuner**: Custom Apple-style liquid UI to control Android system animation scales — smooth, fast, aesthetic.
-- 🧠 **SightGuard AI** *(in progress)*: AI-powered real-time visual threat detection & emergency assistance app for mobile/web using open-source models and cloud-first design.
-
----
-
-<h3 align="center">📹 AppLock Preview</h3>
+<h3 align="center">📱 Apps & Projects</h3>
 
 <p align="center">
-  <img src="https://your-gif-or-screenshot-url-here.gif" alt="AppLock demo" height="500" />
+Apps I built because I wanted them to exist.
 </p>
+
+<details>
+<summary><b>AppLock</b> 🔐 Smooth & Secure Android App Locker</summary>
+
+- Biometric, PIN & Pattern unlock  
+- Inspired by Nothing OS, iOS & One UI  
+- Custom animations, gestures & transitions  
+- Performance-first, no bloat  
+
+</details>
+
+<details>
+<summary><b>LockCanvas</b> 🖥️ App Lock for macOS</summary>
+
+- Translucent lock overlay for selected apps  
+- Supports PIN, Pattern & Touch ID  
+- No root / admin access required  
+- Designed with macOS-native UX principles  
+
+</details>
+
+<details>
+<summary><b>Glass Notes</b> 📝 Futuristic Offline-First Notes App</summary>
+
+- Biometric lock & local-first storage  
+- Swipe actions, pinning & smooth transitions  
+- Gen-Z inspired glass UI & motion design  
+
+</details>
+
+<details>
+<summary><b>Glass Animation Tuner</b> ⚙️ Apple-style Android Animation Control</summary>
+
+- Control system animation scales  
+- Liquid UI inspired by iOS & visionOS  
+- Built for speed, smoothness & aesthetics  
+
+</details>
+
+<details>
+<summary><b>SightGuard AI</b> 🧠 (In Progress)</summary>
+
+- AI-powered real-time visual threat detection  
+- Emergency assistance for mobile & web  
+- Open-source models + cloud-first architecture  
+
+</details>
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sami112xkhan&show_icons=true&theme=radical&border_radius=10" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami112xkhan&layout=compact&theme=radical&border_radius=10" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sami112xkhan&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami112xkhan&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
 
-<h3 align="center">📌 Pinned Repositories</h3>
+<h3 align="center">☕ Support My Work</h3>
 
 <p align="center">
-  👉 Check out my pinned work at [github.com/Sami112xkhan](https://github.com/Sami112xkhan)
+  <a href="https://www.buymeacoffee.com/samiullahkhan" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=samiullahkhan&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🌐 Let's Connect</h3>
+<h3 align="center">🌐 Let’s Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sami-ullah-khan112" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://discordapp.com/users/your_discord_id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://twitch.tv/your_twitch_handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://dev.to/your_devto_handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
 </p>
