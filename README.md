@@ -89,6 +89,15 @@ Apps I built because I wanted them to exist.
 </p>
 
 ---
+<h3 align="center">🏆 GitHub Rank</h3>
+
+<p align="center">
+  <a href="https://github-ranked.vercel.app/api/rank/Sami112xkhan" target="_blank">
+    <img src="https://github-ranked.vercel.app/api/rank/Sami112xkhan" height="180" />
+  </a>
+</p>
+
+---
 
 <h3 align="center">☕ Support My Work</h3>
 
