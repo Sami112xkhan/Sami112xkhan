@@ -32,6 +32,16 @@
 Apps I built because I wanted them to exist.
 </p>
 
+<details open>
+<summary><b>Aircam</b> 🎥 High-Performance Glass UI IP Camera</summary>
+
+- Professional 4K MJPEG streaming server  
+- Smooth Hybrid Zoom (0.5x - 5.0x) & multi-lens support  
+- Modern Material 3 Glassmorphism dashboard  
+- Secure encrypted local streaming (HTTPS)  
+
+</details>
+
 <details>
 <summary><b>AppLock</b> 🔐 Smooth & Secure Android App Locker</summary>
 
@@ -103,7 +113,7 @@ Apps I built because I wanted them to exist.
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/samiullahkhan" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=samiullahkhan&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
 </p>
 
