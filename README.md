@@ -32,7 +32,7 @@
 Apps I built because I wanted them to exist.
 </p>
 
-<details open>
+<details>
 <summary><b>Aircam</b> 🎥 High-Performance Glass UI IP Camera</summary>
 
 - Professional 4K MJPEG streaming server  
